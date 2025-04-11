@@ -10,7 +10,11 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 
 - There is 8px between the edge of the card and its content (the blue sections).
 - There is an 8px gap between each of the blue sections inside the card.
-- The title of the card uses a 16px font.
+- The title of the card uses a 1
+Counting objects: 100% (11/11), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 554 bytes | 554.00 KiB/s, done.6px font.
 - There are 8px between the title text and the edge of the title section.
 - The content section has 16px space on the top and bottom, and 8px on either side.
 - Everything inside the `.button-container` section is centered, and there is 8px padding.
